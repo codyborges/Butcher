@@ -27,11 +27,16 @@ font-family: 'Cormorant Garamond', serif;
   list-style-type: none;
 }
 .logo{
-  margin-right: 63%;
+  margin-right: 72%;
 }
 
 li{
   margin: 0 1%;
+}
+
+a{
+  color: white;
+  text-decoration: none;
 }
 
 .main{
